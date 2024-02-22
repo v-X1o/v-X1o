@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi, I'm Uxío Domínguez 😊
+Now you understand my username (v-X1o).
+
+### Who am I?
+I'm a musician from Galicia (Spain). I'm specialises in composition. ✍🏻
+
+### Currently learning 📖
+- Godot / GDScript
+- Git / GitHub
+- 🔜 C#
 
 <!--
 **v-X1o/v-X1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
