@@ -10,10 +10,18 @@ I'm a musician from Galicia (Spain). I'm specialised in composition. ✍🏻
 ## Currently learning 📖
 - Godot / GDScript
 - Git / GitHub
-- 🔜 C#
 
-# Contact information 📮
-<b>Email:<b> uxiodominguezdarriba@gmail.com
+## Future projects 🔜
+- HTML / CSS
+- JavaScript
+- C++
+
+# Contact information & Social Media 📮
+<b>Email:<b> uxiodominguezdarriba@gmail.com  
+[Facebook](https://www.facebook.com/people/Ux%C3%ADo-Dom%C3%ADnguez-Darriba/100070322028223/)  
+[Instagram](https://www.instagram.com/uxio.dominguez/)  
+[Youtube](https://www.youtube.com/@v-X1o)  
+[Soundcloud](https://soundcloud.com/v-x1o)  
 
 <!--
 **v-X1o/v-X1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
