@@ -17,8 +17,8 @@ I'm a musician from Galicia (Spain). I'm specialised in composition. ✍🏻
 - C++
 
 # Contact information & Social Media 📮
-<b>Email:<b> uxiodominguezdarriba@gmail.com  
-[Facebook](https://www.facebook.com/people/Ux%C3%ADo-Dom%C3%ADnguez-Darriba/100070322028223/)  
+<b>Email:<b> uxiodominguezdarriba@gmail.com 
+[Twitter](https://twitter.com/v_X1o_) 
 [Instagram](https://www.instagram.com/uxio.dominguez/)  
 [Youtube](https://www.youtube.com/@v-X1o)  
 [Soundcloud](https://soundcloud.com/v-x1o)  
